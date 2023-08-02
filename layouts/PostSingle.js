@@ -1,5 +1,4 @@
 import config from "@config/config.json";
-import { dateFormat } from "@lib/utils/dateFormat";
 import { readingTime } from "@lib/utils/readingTime";
 import { similerItems } from "@lib/utils/similarItems";
 import { humanize, markdownify, slugify } from "@lib/utils/textConverter";
@@ -70,9 +69,7 @@ const PostSingle = ({ post, mdxContent, slug, posts }) => {
                     </ul>
                   </li>
                   <li className="mb-2 mr-4 inline-block">
-                    <span className="mr-2 inline-block">
-                      {dateFormat(date)}
-                    </span>{" "}
+                    
                     |
                   </li>
                   <li className="mb-2 mr-4 inline-block">

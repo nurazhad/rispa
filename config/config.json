@@ -1,8 +1,8 @@
 {
   "site": {
-    "title": "Hydrogen Nextjs",
+    "title": "RUMAH ISPA",
     "base_url": "/",
-    "favicon": "/images/developer.png"
+    "favicon": "/images/baby.png"
   },
 
   "settings": {
@@ -12,26 +12,26 @@
   },
 
   "profile": {
-    "name": "Michael Caine",
-    "image": "/images/developer.png",
-    "designation": "Front-end developer",
-    "bio": "A Full Stack Front-end Developer based in New York. Meticulous web developer with over 2 years of front end experience and passion for responsive and mobile-first website design."
+    "name": "RUMAH ISPA",
+    "image": "/images/baby.png",
+    "designation": "Poltekkes Kemenkes Tasikmalaya",
+    "bio": "Aplikasi yang dirancang untuk membantu ibu ibu"
   },
 
   "params": {
     "contact_form_action": "#",
     "tag_manager_id": "",
-    "copyright": "Copyright © 2022 a theme by [statichunt](https://statichunt.com)"
+    "copyright": "Copyright © 2022 Poltekkes"
   },
 
   "metadata": {
-    "meta_author": "Statichunt",
+    "meta_author": "Triya Yestika",
     "meta_image": "",
     "meta_description": ""
   },
 
   "disqus": {
     "enable": true,
-    "shortname": "themefisher-template"
+    "shortname": "Triya"
   }
 }
