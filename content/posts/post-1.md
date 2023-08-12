@@ -6,7 +6,7 @@ categories:
 draft: false
 ---
 
-#### Pengertian ISPA
+### Pengertian ISPA
 Infeksi Saluran Pernapasan Akut (ISPA) adalah penyakit saluran pernapasan atas atau bawah yang dapat menimbulkan berbagai penyakit yaitu dari penyakit tanpa gejala atau infeksi ringan sampai penyakit yang parah dan mematikan (Arsin dkk, 2020).
 
 Pneumonia pada golongan umur 2 bulan s/d < 5 tahun ditetapkan 3 klasifikasi yaitu pneumonia, pneumonia berat dan batuk bukan pneumonia (Departemen Kesehatan RI, 2012).
@@ -20,7 +20,8 @@ c. Berat (pneumonia berat)
 Batuk dengan napas berat, cepat dan stridor, membran keabuan di taring, kejang, apnea, dehidrasi berat atau tidur terus, sianosis dan adanya penarikan yang kuat pada dinding dada sebelah bawah ke dalam.
 
 ### Gejala ISPA
-Gejala ISPA berdasarkan tingkat keparahan ISPA (Rosana, 2016). a. Gejala dari ISPA ringan.
+Gejala ISPA berdasarkan tingkat keparahan ISPA (Rosana, 2016). 
+a. Gejala dari ISPA ringan.
 1. Batuk.
 2. Serak, yaitu dimana anak bersuara parau pada waktu berbicara atau menangis.
 3. Pilek, yaitu mengeluarkan lendir atau ingus dari hidung.
