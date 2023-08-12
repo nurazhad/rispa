@@ -44,6 +44,9 @@ c. Gejala dari ISPA Berat.
 
 Etiologi ISPA terdiri lebih dari 300 jenis bakteri,virus dan riketsia. Bakteri penyebab ISPA antara lain dari genus Streptokokus, Stafilokokus, Pneumokokus, Hemofillus, Bordetelia dan Korinebakterium dan virus penyebab ISPA antara lain adalah golongan Miksovirus, Adnovirus, Koronavirus, Pikornavirus,  Herpesvirus (Pitriani, 2020).
 
+### PENYEBAB ISPA
+Penyebab ISPA terdiri lebih dari 300 jenis bakteri, virus dan riketsia. Bakteri penyebab ISPA antara lain dari genus Streptokokus, Stafilokokus, Pneumokokus, Hemofillus, Bordetelia dan Korinebakterium dan virus penyebab ISPA antara lain adalah golongan Miksovirus, Adnovirus, Koronavirus, Pikornavirus,  Herpesvirus
+
 ### Pencegahan ISPA
 Menurut Depkes RI (2012), pencegahan ISPA dapat dilakukan dengan cara sebagai berikut :
 a. Menjaga kesehatan gizi
