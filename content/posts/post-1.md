@@ -13,12 +13,14 @@ ISPA adalah penyakit saluran pernafasan  akut  yang  disebabkan  oleh  agen infe
 
 ### Gejala ISPA
 Gejala ISPA berdasarkan tingkat keparahan ISPA 
-a.	Gejala dari ISPA ringan.
+
+#####	Gejala dari ISPA ringan.
 1.	Batuk.
 2.	Serak, yaitu dimana anak bersuara parau pada waktu berbicara atau menangis.
 3.	Pilek, yaitu mengeluarkan lendir atau ingus dari hidung.
 4.	Panas atau demam, dengan suhu badan lebih dari 37,0°C.
-b.	Gejala dari ISPA sedang.
+
+#####	Gejala dari ISPA sedang.
 1.	Pernapasan cepat (fast breathing) sesuai umur yaitu :untuk kelompok umur kurang dari 2 bulan frekuensi nafas 60 kali per menit atau lebih dan 40 kali permenit untuk umur 12 bulan -5 tahun.
 2.	Suhu tubuh lebih dari 39,0°C.
 3.	Tenggorokan berwarna merah.
