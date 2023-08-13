@@ -80,13 +80,6 @@ const PostSingle = ({ post, mdxContent, slug, posts }) => {
                   <MDXRemote {...mdxContent} components={shortcodes} />
                 </div>
               </article>
-
-              {config.disqus.enable && (
-                <DiscussionEmbed
-                  shortname={config.disqus.shortname}
-                  config={config.disqus.settings}
-                />
-              )}
             </div>
           </div>
 
