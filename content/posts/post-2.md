@@ -21,3 +21,6 @@ jika    muntah    dan pemberian   cairan   dengan   mengusahakan pemberian  cair
 2.	Nafas cepat
 3.	Tidak mau diberi ASI
 4.	Penurunan Kesadaran
+
+SUMBER :
+Widianti, S. (2020). Penanganan Ispa Pada Anak Balita (Studi Literatur). Jurnal Kesehatan Dan Pembangunan, 10(20), 79-88.

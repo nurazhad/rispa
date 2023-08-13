@@ -39,11 +39,11 @@ c.	Gejala dari ISPA Berat.
 Penyebab ISPA terdiri lebih dari 300 jenis bakteri, virus dan riketsia. Bakteri penyebab ISPA antara lain dari genus Streptokokus, Stafilokokus, Pneumokokus, Hemofillus, Bordetelia dan Korinebakterium dan virus penyebab ISPA antara lain adalah golongan Miksovirus, Adnovirus, Koronavirus, Pikornavirus,  Herpesvirus
 
 ### Pencegahan ISPA
-Pencegahan ISPA dapat dilakukan dengan cara sebagai berikut.
-a.	Menjaga kesehatan gizi
+Pencegahan ISPA dapat dilakukan dengan cara sebagai berikut:
+#####	Menjaga kesehatan gizi
 Menjaga kesehatan gizi yang baik dapat mencegah dan terhindar dari penyakit salah satunya penyakit ISPA yaitu dengan mengkonsumsi makanan empat sehat lima sempurna, banyak minum air putih, olah raga dengan teratur, serta istirahat yang cukup. Semuanya itu akan menjaga badan tetap sehat. Dengan tubuh yang sehat maka kekebalan tubuh akan semakin meningkat, sehingga dapat mencegah virus atau bakteri penyakit yang akan masuk ke tubuh.
-b.	Imunisasi
+#####	Imunisasi
 Pemberian imunisasi sangat diperlukan baik pada anak-anak maupun orang dewasa. Tujuan dilakukannya imunisasi yaitu untuk menjaga kekebalan tubuh agar terhindar dari berbagai macam penyakit yang disebabkan oleh virus atau bakteri. c. Menjaga kebersihan perorangan dan lingkungan.
 Dengan membuat ventilasi udara serta pencahayaan udara yang baik dapat mengurangi polusi asap dapur atau asap rokok yang ada didalam rumah. Hal tersebut dapat mencegah seseorang menghirup asap yang bisa menyebabkan terkena penyakit ISPA. Ventilasi yang baik dapat memelihara kondisi sirkulasi udara (atmosfer) agar tetap segar dan sehat bagi manusia.
-c.	Mencegah anak berhubungan dengan penderita ISPA
+#####	Mencegah anak berhubungan dengan penderita ISPA
 Infeksi Saluran Pernafasan Akut (ISPA) disebabkan oleh virus atau bakteri yang ditularkan oleh seseorang yang telah terjangkit penyakit ini melalui udara yang tercemar dan masuk kedalam tubuh. Bibit penyakit ini biasanya berupa virus atau bakteri diudara yang umumnya berbentuk aerosol (suspensi yang melayang diudara). Adapun bentuk aerosol yakni Droplet, Nuclei (sisa dari sekresi saluran pernafasan yang dikeluarkan dari tubuh secara droplet dan melayang di udara), yang kedua duet (campuran antara bibit penyakit)
