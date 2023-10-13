@@ -76,6 +76,3 @@ Pemberian imunisasi sangat diperlukan baik pada anak-anak maupun orang dewasa. T
 #### JAUHKAN ANAK ANAK DARI PENDERITA ISPA
 Infeksi Saluran Pernafasan Akut (ISPA) disebabkan oleh virus atau bakteri yang ditularkan oleh seseorang yang telah terjangkit penyakit ini melalui udara yang tercemar dan masuk kedalam tubuh. Bibit penyakit ini biasanya berupa virus atau bakteri diudara yang umumnya berbentuk aerosol (suspensi yang melayang diudara). Adapun bentuk aerosol yakni Droplet, Nuclei (sisa dari sekresi saluran pernafasan yang dikeluarkan dari tubuh secara droplet dan melayang di udara), yang kedua duet (campuran antara bibit penyakit)
 
-
-
-![Alt text](image.png)

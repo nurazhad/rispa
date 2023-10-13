@@ -4,8 +4,7 @@ categories:
   - ISPA
 draft: false
 ---
-
-### REFERENSI 
+ 
 1. Husaini, A., & Hilal, T. S. (2023). JURNAL ABDI INSANI Education of ISPA in Air Society of Air Hangat Village Kerinci District. 10, 671–677.
 
 2. Nurjamillah, S. Y., & Dwiriani, C. M. (2022). Status Gizi dengan Kejadian ISPA Balita di Wilayah Kerja Puskesmas Unyur Kota Serang Sebelum dan Selama Pandemi Covid-19. Jurnal Ilmu Gizi Dan Dietetik, 1(2), 95–102. https://doi.org/10.25182/jigd.2022.1.2.95-102
