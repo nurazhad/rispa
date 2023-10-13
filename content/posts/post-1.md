@@ -9,7 +9,6 @@ draft: false
 Infeksi Saluran Pernapasan Akut (ISPA) adalah penyakit saluran pernapasan atas atau bawah yang dapat menimbulkan berbagai penyakit yaitu dari penyakit tanpa gejala atau infeksi ringan sampai penyakit yang parah dan mematikan.
 ISPA adalah penyakit saluran pernafasan  akut  yang  disebabkan  oleh  agen infeksius  yang  ditularkan  dari  manusia  ke manusia.  Timbulnya  gejala  biasanya  cepat, yaitu   dalam waktu   beberapa   jam   sampai beberapa  hari
 
-
 ### GEJALA ISPA BERDASARKAN TINGKAT KEPARAHAN
 #####	Gejala dari ISPA ringan.
 1.	Batuk.
