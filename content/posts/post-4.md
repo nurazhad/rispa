@@ -7,10 +7,6 @@ draft: false
 
 
 Website ini berisi penanganan ispa perawatan di rumah, dengan mudah untuk. Media edukasi berbasis website merupakan alat bantu untuk menyampaikan informasi dengan memanfaatkan kemajuan teknologi yang dapat menjadi media pembelajaran yang menarik agar bisa dikunjungi, media edukasi berbasis sebuah website termasuk media edukasi yang praktis dan mudah diakses kapanpun dan dimanapun karena dapat dioperasikan melalui perangkat komputasi mobile yang terhububung dengan internet seperti smartphone, laptop, tablet, PC.
-###
-###
-###
-  
 
 ##### <a href = "https://www.instagram.com/triyayestika/"> Triya Yestika Saleha </a> | <b> Desainer </b>
 ##### Lia Herliana, S.Kep., Ns. | <b> Coach 1  </b>
