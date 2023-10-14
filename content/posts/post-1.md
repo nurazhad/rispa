@@ -42,23 +42,46 @@ ISPA adalah penyakit saluran pernafasan  akut  yang  disebabkan  oleh  agen infe
 </Accordion>
 
 #### PENYEBAB ISPA
-Bakteri penyebab ISPA yaitu dari genus: Corynebakterium, Pneumococcus, Haemophilus, Streptococcus, dan Bordetella. Virus penyebab ISPA antara lain adalah golongan:, Herpesvirus, Adenovirus, Miksovirus, Coronavirus, Mikoplasma, Pikornavirus, dan lain-lain (Husaini & Hilal, 2023)
+
+<Accordion title="Bakteri">
+
+Bakteri penyebab ISPA yaitu dari genus: Corynebakterium, Pneumococcus, Haemophilus, Streptococcus, dan Bordetella.
+
+</Accordion>
+
+<Accordion className="mt-3" title="Virus">
+
+Virus penyebab ISPA antara lain adalah golongan:, Herpesvirus, Adenovirus, Miksovirus, Coronavirus, Mikoplasma, Pikornavirus, dan lain-lain (Husaini & Hilal, 2023).
+
+</Accordion>
+ 
 
 #### PENCEGAHAN ISPA
 Pencegahan ISPA dapat dilakukan dengan cara sebagai berikut (Silviana, 2014).
-- **MAKAN SEHAT**
+<Accordion title="MAKAN SEHAT">
 
 Menjaga kesehatan gizi yang baik dapat mencegah dan terhindar dari penyakit salah satunya penyakit ISPA yaitu dengan mengkonsumsi makanan empat sehat lima sempurna, banyak minum air putih, olah raga dengan teratur, serta istirahat yang cukup. Semuanya itu akan menjaga badan tetap sehat. Dengan tubuh yang sehat maka kekebalan tubuh akan semakin meningkat, sehingga dapat mencegah virus atau bakteri penyakit yang akan masuk ke tubuh.
 
-- **MENJAGA KEBERSIHAN INDIVIDU DAN LINGKUNGAN**
+</Accordion>
+
+<Accordion className="mt-3" title="MENJAGA KEBERSIHAN INDIVIDU DAN LINGKUNGAN">
 
 Dengan membuat ventilasi udara serta pencahayaan udara yang baik dapat mengurangi polusi asap dapur atau asap rokok yang ada didalam rumah. Hal tersebut dapat mencegah seseorang menghirup asap yang bisa menyebabkan terkena penyakit ISPA. Ventilasi yang baik dapat memelihara kondisi sirkulasi udara (atmosfer) agar tetap segar dan sehat bagi manusia.
 
-- **IMUNISASI**
+</Accordion>
+
+<Accordion className="mt-3" title="IMUNISASI">
 
 Pemberian imunisasi sangat diperlukan baik pada anak-anak maupun orang dewasa. Tujuan dilakukannya imunisasi yaitu untuk menjaga kekebalan tubuh agar terhindar dari berbagai macam penyakit yang disebabkan oleh virus atau bakteri.
 
-- **JAUHKAN ANAK ANAK DARI PENDERITA ISPA**
+</Accordion>
+
+<Accordion className="mt-3" title="JAUHKAN ANAK ANAK DARI PENDERITA ISPA">
 
 Infeksi Saluran Pernafasan Akut (ISPA) disebabkan oleh virus atau bakteri yang ditularkan oleh seseorang yang telah terjangkit penyakit ini melalui udara yang tercemar dan masuk kedalam tubuh. Bibit penyakit ini biasanya berupa virus atau bakteri diudara yang umumnya berbentuk aerosol (suspensi yang melayang diudara). Adapun bentuk aerosol yakni Droplet, Nuclei (sisa dari sekresi saluran pernafasan yang dikeluarkan dari tubuh secara droplet dan melayang di udara), yang kedua duet (campuran antara bibit penyakit)
+
+</Accordion>
+
+
+
 
