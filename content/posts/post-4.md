@@ -1,5 +1,6 @@
 ---
-title: "TENTANG APLIKASI"
+title: "TENTANG WEB"
+image: /images/posts/about.png
 categories: 
   - ISPA
 draft: false

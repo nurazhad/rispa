@@ -1,5 +1,6 @@
 ---
 title: "REFERENSI"
+image: /images/posts/sourcing.png
 categories: 
   - ISPA
 draft: false

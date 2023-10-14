@@ -1,5 +1,6 @@
 ---
 title: "ISPA"
+image: /images/posts/sneezing.png
 categories: 
   - ISPA
 draft: false
@@ -10,7 +11,7 @@ Infeksi Saluran Pernapasan Akut (ISPA) adalah penyakit saluran pernapasan atas a
 ISPA adalah penyakit saluran pernafasan  akut  yang  disebabkan  oleh  agen infeksius  yang  ditularkan  dari  manusia  ke manusia.  Timbulnya  gejala  biasanya  cepat, yaitu   dalam waktu   beberapa   jam   sampai beberapa  hari
 
 #### GEJALA ISPA BERDASARKAN TINGKAT KEPARAHAN
-
+Gejala ISPA berdasarkan derajat keparahan ISPA (Nurjamillah & Dwiriani, 2022) 
 <Accordion title="GEJALA ISPA RINGAN">
 
 - Batuk.

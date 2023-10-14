@@ -4,7 +4,11 @@
       "theme_color": {
         "primary": "#222222",
         "body": "#FFDFE8",
-        "border": "#FD80A6"
+        "border": "#FD80A6",
+        "backgroundImage": {
+          "hero-pattern": "url('/img/hero-pattern.svg')",
+          "footer-texture": "url('config/config.json')"
+        }
       },
       "text_color": {
         "default": "#222222",

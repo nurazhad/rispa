@@ -1,5 +1,6 @@
 ---
-title: "Perawatan di Rumah"
+title: "PERAWATAN DI RUMAH"
+image: /images/posts/home.png
 categories:
    - ISPA
 draft: false
