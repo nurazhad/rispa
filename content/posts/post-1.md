@@ -20,7 +20,7 @@ ISPA adalah penyakit saluran pernafasan  akut  yang  disebabkan  oleh  agen infe
 
 </Accordion>
 
-<Accordion title="GEJALA ISPA SEDANG">
+<Accordion className="mt-3" title="GEJALA ISPA SEDANG">
 
 - Pernapasan cepat (fast breathing) sesuai umur yaitu :untuk kelompok umur kurang dari 2 bulan frekuensi nafas 60 kali per menit atau lebih dan 40 kali permenit untuk umur 12 bulan -5 tahun.
 -	Suhu tubuh lebih dari 39,0°C.
@@ -30,7 +30,7 @@ ISPA adalah penyakit saluran pernafasan  akut  yang  disebabkan  oleh  agen infe
 
 </Accordion>
 
-<Accordion title="GEJALA ISPA BERAT">
+<Accordion className="mt-3" title="GEJALA ISPA BERAT">
 
 - Warna bibir atau kulit membiru.
 - Kesadaran anak menurun.
