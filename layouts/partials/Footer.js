@@ -1,5 +1,6 @@
 import config from "@config/config.json";
 import { markdownify } from "@lib/utils/textConverter";
+import About from "pages/about";
 
 const Footer = () => {
   const { copyright } = config.params;

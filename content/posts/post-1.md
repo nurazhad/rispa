@@ -12,7 +12,7 @@ ISPA adalah penyakit saluran pernafasan  akut  yang  disebabkan  oleh  agen infe
 
 #### GEJALA ISPA BERDASARKAN TINGKAT KEPARAHAN
 Gejala ISPA berdasarkan derajat keparahan ISPA (Nurjamillah & Dwiriani, 2022) 
-<Accordion title="GEJALA ISPA RINGAN">
+<Accordion  title="GEJALA ISPA RINGAN">
 
 - Batuk.
 -	Serak, yaitu dimana anak bersuara parau pada waktu berbicara atau menangis.
