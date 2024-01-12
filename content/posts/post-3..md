@@ -3,7 +3,7 @@ title: "PEMERIKSAAN DAN PERAWATAN ISPA"
 image: /images/posts/home.png
 categories:
    - ISPA
-draft: false
+draft: true
 ---
 #### PEMERIKSAAN DAN PERAWATAN ISPA
 
