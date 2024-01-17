@@ -6,37 +6,75 @@ categories:
 draft: false
 ---
 #### PENANGANAN / PENATALAKSANAAN AWAL ISPA
-Sebagai suatu tindakan untuk mengatasi penyakit ISPA agar tidak berlangsung lama dengan tujuan menghindari penggunaan obat batuk yang tidak tepat.
-Langkah-Langkahnya **Pemeriksaan**, **pengobatan**, dan **Perawatan di rumah** 
-Anak di usahakan tetap di pangkuan ibunya saat pemeriksaan 
-Berikut penanganan awal perawatan yang bisa dilakukan di rumah (Widianti, 2020)
+Langkah-Langkahnya Pemeriksaan, pengobatan serta perawatan di rumah (penanganan awal dan penanganan lanjutan dari pelayanan Kesehatan)
 
-<Accordion title="PEMBERIAN ASI">
+##### PEMERIKSAAN
+<Accordion title="PEMERIKSAAN NAFAS">
+Pemeriksaan Nafas dalam satu menit
 
-Untuk yang sudah lebih dari 6 bulan pemberian minuman usahakan pemberian cairan minuman yang boleh adalah air putih, air buah, dan sebagainya.
+- umur ≥ 5 tahun : ≥ 30 kali/menit
+- umur 1 – 5 tahun : ≥ 40 kali/menit 
+- umur 2 – 11 bulan : ≥ 50 kali/menit 
+- umur < 2 bulan : ≥ 60 kali/menit 
 
+<iframe width="350" height="250" src="https://www.youtube.com/embed/78ftQqwo8QQ" title="Pengkajian Sistem Muskuloskeletal_Triya Yestika Saleha_P20620520038" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</Accordion>
+
+<Accordion title="PEMERIKSAAN TARIKAN DINDING DADA">
+Saat bernapas akan terlihat seperti cekungan di dada bayi yang menyerupai kondisi gizi buruk, di mana bentuk rusuk terlihat dengan jelas.
+
+<iframe width="350" height="250" src="https://www.youtube.com/embed/78ftQqwo8QQ" title="Pengkajian Sistem Muskuloskeletal_Triya Yestika Saleha_P20620520038" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</Accordion>
+
+<Accordion title="PEMERIKSAAN SUARA RONCHI">
+Suara yang terdengar seperti mendengkur atau suara saluran napas besar, adalah suara gemericik atau menggelegak terus-menerus yang biasanya terdengar saat bernafas.
+
+<iframe width="350" height="250" src="https://www.youtube.com/embed/78ftQqwo8QQ" title="Pengkajian Sistem Muskuloskeletal_Triya Yestika Saleha_P20620520038" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</Accordion>
+
+<Accordion title="PEMERIKSAAN SATURASI OKSIGEN">
+Saturasi oksigen merupakan nilai yang menunjukkan kadar oksigen di dalam darah. Nilai normal 95-100%
+
+<iframe width="350" height="250" src="https://www.youtube.com/embed/78ftQqwo8QQ" title="Pengkajian Sistem Muskuloskeletal_Triya Yestika Saleha_P20620520038" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</Accordion>
+
+<Accordion title="PEMERIKSAAN SUHU TUBUH">
+Suhu dapat diukur menggunakan termometer, suhu normal 36,5 O C-37,5 O C. Suhu yang terlalu rendah disebut hipotermia dan suhu terlalu rendah disebut hipertermia.
+
+<iframe width="350" height="250" src="https://www.youtube.com/embed/78ftQqwo8QQ" title="Pengkajian Sistem Muskuloskeletal_Triya Yestika Saleha_P20620520038" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</Accordion>
+
+##### Pengobatan serta perawatan di rumah (penanganan awal dan penanganan lanjutan dari pelayanan Kesehatan)
+Berikut penanganan yang bisa dilakukan di rumah (Widianti, 2020)
+<Accordion className="mt-3" title="PEMBERIAN MAKANAN BERGIZI">
+Bagi usia ≤ 6 bulan hanya ASI saja, ≤ 1 tahun melanjutkan ASI, air putih serta MPASI , ≥ 1 tahun boleh melanjutkan ASI, air putih, air buah, air jus, serta makanan-makanan bergizi.
 </Accordion>
 
 <Accordion className="mt-3" title="MENGATASI DEMAM / PANAS">
+Untuk   mengatasi   panas   (demam)  yaitu dengan memberikan  obat  penurun panas   atau mengompres   anak   dengan   menggunakan kain   bersih,   celupkan   pada   air hangat sesuai kebutuhan.
 
-Yang  dapat  dilakukan  ibu  di  rumah yaitu   mengatasi   panas   (demam)   dengan memberikan  obat  tablet  paracetamol   atau mengompres   anak   dengan   menggunakan kain   bersih,   celupkan   pada   air   tiga   kali sehari.
+<iframe width="350" height="250" src="https://www.youtube.com/embed/78ftQqwo8QQ" title="Pengkajian Sistem Muskuloskeletal_Triya Yestika Saleha_P20620520038" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</Accordion>
 
+<Accordion className="mt-3" title="MENGATASI SESAK">
+Jika sesak karena secret/dahak maka dilakukan terapi inhalasi untuk mengeluarkan secret/dahak. Inhalasi adalah pemberian obat seperti uap yang kemudian dihirup langsung melalui pernafasan. Pemberian obat dengan inhalasi dengan aromaterapi peppermint oil tidak kalah cepat dengan pemberian obat melalui intravena karena pengiriman obat cepat melalui saluran nafas dan epitel paru-paru.
+
+<iframe width="350" height="250" src="https://www.youtube.com/embed/78ftQqwo8QQ" title="Pengkajian Sistem Muskuloskeletal_Triya Yestika Saleha_P20620520038" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </Accordion>
 
 <Accordion className="mt-3" title="MENGATASI MUNTAH">
-
-jika    muntah    dan pemberian   cairan   dengan   mengusahakan pemberian  cairan  (air  putih,  air  buah,  dsb) lebih  banyak  dari  biasanya  akan  membantu mengencerkan   dahak,  karena kekurangan   cairan menambah  parah  sakit  yang  diderita  anak.
-
+Jika muntah terus menerus harus dilakukan pemberian   cairan   dengan   pemberian  pada anak diatas 6 bulan (air  putih,  air  buah,  oralit, dsb) lebih  banyak  dari  biasanya.
 </Accordion>
 
 <Accordion className="mt-3" title="MENGATASI BATUK">
+Mengatasi batuk pada bayi ≤ 6 bulan dengan cara hanya ASI saja, pada usia ≤ 1 tahun melanjutkan ASI dan air putih hangat, sedangkan pada usia  ≥ 1 tahun yaitu  bisa diberikan bahan yang aman yaitu  terbuat  dari kecap  manis atau  madu  ½  sendok  teh  dicampur dengan jeruk  nipis  ½  sendok  teh  diberikan tiga  kali  sehari.
+Adapun untuk mengurangi penumpukkan dahak yang sulit dikeluarkan saat batuk yaitu dengan fisioterapi dada. Fisioterapi   dada   pada   anak yang mengalami ISPA   akan   efektif   jika   dilakukan selama  2x  dalam  sehari  secara  berkala. Sehingga fisioterapi dada dapat digunakan untuk    membantu    mengatasi    masalah pengeluaran  dahak (Pangesti & Setyaningrum, 2020).
 
-Mengatasi  batuk  dengan  obat  yang aman  yaitu  ramuan  tradisional  terbuat  dari jeruk  nipis  ½  sendok  teh  dicampur  dengan kecap  atau  madu  ½  sendok  teh  diberikan tiga  kali  sehari.  Pemberian  makanan  yang cukup gizi, sedikit-sedikit tetapi berulangulang    yaitu    lebih    sering    dari biasanya.
-
+<iframe width="350" height="250" src="https://www.youtube.com/embed/78ftQqwo8QQ" title="Pengkajian Sistem Muskuloskeletal_Triya Yestika Saleha_P20620520038" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </Accordion>
 
 <Notice type="note">
-Bagi pasien yang mengonsumsi antibiotik, selain tindakan di atas, pastikan obat digunakan dengan benar selama 5 hari penuh. Dan bagi pasien yang sedang mengonsumsi antibiotik, usahakan untuk membawa anak kembali ke petugas medis untuk pemeriksaan lanjutan setelah 2 hari.
+Bagi pasien yang mengonsumsi antibiotik, selain tindakan di atas, pastikan obat digunakan dengan benar sampai habis, namun bagi pasien yang sedang mengonsumsi antibiotik, usahakan untuk membawa anak kembali ke petugas medis jika kondisi memburuk untuk pemeriksaan lanjutan.
 </Notice>
 
 #### KAPAN HARUS MEMBAWA SEGERA KE PELAYANAN KESEHATAN?
