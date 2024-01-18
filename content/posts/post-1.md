@@ -8,6 +8,7 @@ draft: false
 
 #### PENGERTIAN ISPA
   ISPA (Infeksi Saluran Pernafasan Akut) adalah penyakit pada saluran pernapasan bagian atas atau bawah yang menimbulkan berbagai macam tanda dan gejala, mulai dari tingkatan ringan atau sampai berat bahkan bisa menyebabkan kematian yang disebabkan oleh bakteri atau virus sehingga menimbulkan gangguan pada sistem pernafasan (Ramli, 2022; dan Simanjuntak et al., 2021).
+  ![ispa](/images/gallery/1.png)
 
 
 #### GEJALA ISPA BERDASARKAN TINGKAT KEPARAHAN
