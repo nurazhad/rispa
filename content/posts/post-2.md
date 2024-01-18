@@ -66,10 +66,14 @@ Jika sesak karena secret/dahak maka dilakukan terapi inhalasi untuk mengeluarkan
 
 <Accordion className="mt-3" title="MENGATASI MUNTAH">
 Jika muntah terus menerus harus dilakukan pemberian   cairan   dengan   pemberian  pada anak diatas 6 bulan (air  putih,  air  buah,  oralit, dsb) lebih  banyak  dari  biasanya.
+
+ ![ispa](/images/gallery/28.png)
 </Accordion>
 
 <Accordion className="mt-3" title="MENGATASI BATUK">
 Mengatasi batuk pada bayi ≤ 6 bulan dengan cara hanya ASI saja, pada usia ≤ 1 tahun melanjutkan ASI dan air putih hangat, sedangkan pada usia  ≥ 1 tahun yaitu  bisa diberikan bahan yang aman yaitu  terbuat  dari kecap  manis atau  madu  ½  sendok  teh  dicampur dengan jeruk  nipis  ½  sendok  teh  diberikan tiga  kali  sehari.
+
+ ![ispa](/images/gallery/29.png)
 Adapun untuk mengurangi penumpukkan dahak yang sulit dikeluarkan saat batuk yaitu dengan fisioterapi dada. Fisioterapi   dada   pada   anak yang mengalami ISPA   akan   efektif   jika   dilakukan selama  2x  dalam  sehari  secara  berkala. Sehingga fisioterapi dada dapat digunakan untuk    membantu    mengatasi    masalah pengeluaran  dahak (Pangesti & Setyaningrum, 2020).
 
 <iframe width="350" height="250" src="https://www.youtube.com/embed/c14WkI5JrUU" title="Tindakan Fisioterapi Dada" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -82,5 +86,5 @@ Bagi pasien yang mengonsumsi antibiotik, selain tindakan di atas, pastikan obat 
 - Tidak mau diberi ASI
 - Nafas cepat
 - Penurunan Kesadaran
-
+ ![ispa](/images/gallery/7.png)
 </Accordion>
