@@ -47,9 +47,9 @@ Suhu dapat diukur menggunakan termometer, suhu normal 36,5 O C-37,5 O C. Suhu ya
 #### **Pengobatan serta perawatan di rumah (penanganan awal dan penanganan lanjutan dari pelayanan Kesehatan)**
 Berikut penanganan yang bisa dilakukan di rumah (Widianti, 2020)
 <Accordion className="mt-3" title="PEMBERIAN MAKANAN BERGIZI">
-Bagi usia ≤ 6 bulan hanya ASI saja, ≤ 1 tahun melanjutkan ASI, air putih serta MPASI , ≥ 1 tahun boleh melanjutkan ASI, air putih, air buah, air jus, serta makanan-makanan bergizi.
 
 ![makanan bergizi](/images/gallery/40.png)
+Bagi usia ≤ 6 bulan hanya ASI saja, ≤ 1 tahun melanjutkan ASI, air putih serta MPASI , ≥ 1 tahun boleh melanjutkan ASI, air putih, air buah, air jus, serta makanan-makanan bergizi.
 </Accordion>
 
 <Accordion className="mt-3" title="MENGATASI DEMAM / PANAS">
@@ -65,9 +65,10 @@ Jika sesak karena secret/dahak maka dilakukan terapi inhalasi untuk mengeluarkan
 </Accordion>
 
 <Accordion className="mt-3" title="MENGATASI MUNTAH">
-Jika muntah terus menerus harus dilakukan pemberian   cairan   dengan   pemberian  pada anak diatas 6 bulan (air  putih,  air  buah,  oralit, dsb) lebih  banyak  dari  biasanya.
 
  ![ispa](/images/gallery/28.png)
+Jika muntah terus menerus harus dilakukan pemberian   cairan   dengan   pemberian  pada anak diatas 6 bulan (air  putih,  air  buah,  oralit, dsb) lebih  banyak  dari  biasanya.
+
 </Accordion>
 
 <Accordion className="mt-3" title="MENGATASI BATUK">
@@ -87,5 +88,5 @@ Bagi pasien yang mengonsumsi antibiotik, selain tindakan di atas, pastikan obat 
 - Nafas cepat
 - Penurunan Kesadaran
  ![ispa](/images/gallery/7.png)
- 
+
 </Accordion>
