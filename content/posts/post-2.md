@@ -87,4 +87,5 @@ Bagi pasien yang mengonsumsi antibiotik, selain tindakan di atas, pastikan obat 
 - Nafas cepat
 - Penurunan Kesadaran
  ![ispa](/images/gallery/7.png)
+ 
 </Accordion>
