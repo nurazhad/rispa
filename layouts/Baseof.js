@@ -22,7 +22,7 @@ const Base = ({
   return (
     <>
     
-    <div className="bg-[url('/images/posts/triya.png')] bg-contain">
+    <div className="bg-[url('/images/posts/bg1.jpg')] bg-cover">
       <Head>
         {/* title */}
         <title>
