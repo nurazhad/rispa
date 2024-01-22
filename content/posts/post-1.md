@@ -8,7 +8,8 @@ draft: false
 
 #### PENGERTIAN ISPA
   ISPA (Infeksi Saluran Pernafasan Akut) adalah penyakit pada saluran pernapasan bagian atas atau bawah yang menimbulkan berbagai macam tanda dan gejala, mulai dari tingkatan ringan atau sampai berat bahkan bisa menyebabkan kematian yang disebabkan oleh bakteri atau virus sehingga menimbulkan gangguan pada sistem pernafasan (Ramli, 2022; dan Simanjuntak et al., 2021).
-  ![ispa](/images/gallery/1.png)
+ 
+<img src = "/images/gallery/1.png" width = "150px" height = "150px" />
 
 
 #### GEJALA ISPA BERDASARKAN TINGKAT KEPARAHAN
@@ -16,13 +17,13 @@ Gejala ISPA berdasarkan derajat keparahan ISPA (Nurjamillah & Dwiriani, 2022)
 <Accordion  title="GEJALA ISPA RINGAN">
 
 - Common cold atau flu, keluarnya dari hidung yaitu lendir atau ingus.
- ![ispa](/images/gallery/2.png)
+<img src = "/images/gallery/2.png" width = "150px" height = "150px" />
 - Suara serak terdengar ketika berbicara atau menangis.
- ![ispa](/images/gallery/34.png)
+<img src = "/images/gallery/34.png" width = "150px" height = "150px" />
 - Panas atau demam, dengan suhu tubuh lebih dari 37,5°C
- ![ispa](/images/gallery/10.png)
+<img src = "/images/gallery/10.png" width = "150px" height = "150px" />
 - Batuk.
- ![ispa](/images/gallery/9.png)
+<img src = "/images/gallery/9.png" width = "150px" height = "150px" />
 
 </Accordion>
 
@@ -30,16 +31,16 @@ Gejala ISPA berdasarkan derajat keparahan ISPA (Nurjamillah & Dwiriani, 2022)
 
 - Pada kulit muncul bercak merah seperti bercak campak.
 - Tenggorokan merah. 
- ![ispa](/images/gallery/13.png)
+<img src = "/images/gallery/13.png" width = "150px" height = "150px" />
 - Suhu tubuh di atas 39 °C.
- ![ispa](/images/gallery/11.png)
+<img src = "/images/gallery/11.png" width = "150px" height = "150px" />
 - Takipnea atau pernafasan cepat menurut usia, yaitu: 
   ≥ 60 kali/menit untuk usia di bawah 2 bulan 
   ≥ 50 kali/menit untuk 2 bulan sampai < 12 bulan 
   ≥ 40 kali/menit untuk kelompok usia 12 bulan sampai 5 tahun 
-   ![ispa](/images/gallery/31.png)
+<img src = "/images/gallery/31.png" width = "150px" height = "150px" />
 - Suara napas terdengar seperti mendengkur
- ![ispa](/images/gallery/12.png)
+<img src = "/images/gallery/12.png" width = "150px" height = "150px" />
 
 
 </Accordion>
@@ -47,19 +48,19 @@ Gejala ISPA berdasarkan derajat keparahan ISPA (Nurjamillah & Dwiriani, 2022)
 <Accordion className="mt-3" title="GEJALA ISPA BERAT">
 
 - Menurunnya kesadaran anak.
- ![ispa](/images/gallery/35.png)
+<img src = "/images/gallery/35.png" width = "150px" height = "150px" />
 - Tenggorokan merah
- ![ispa](/images/gallery/13.png)
+<img src = "/images/gallery/13.png" width = "150px" height = "150px" />
 - Nafas terdengar seperti mendengus dan anak tampak gelisah.
- ![ispa](/images/gallery/12.png)
+<img src = "/images/gallery/12.png" width = "150px" height = "150px" />
 - Bibir atau kulit berwarna biru. 
- ![ispa](/images/gallery/37.png)
+<img src = "/images/gallery/37.png" width = "150px" height = "150px" />
 - Tarikan di antara tulang rusuk ketika bernapas.
- ![ispa](/images/gallery/38.png)
+<img src = "/images/gallery/38.png" width = "150px" height = "150px" />
 - Takikardia ≥ 160 denyut per menit atau tidak teraba.
- ![ispa](/images/gallery/39.png)
+<img src = "/images/gallery/39.png" width = "150px" height = "150px" />
 - Saturasi oksigen ≤ 92%
- ![ispa](/images/gallery/36.png)
+<img src = "/images/gallery/36.png" width = "150px" height = "150px" />
 
 
 </Accordion>
