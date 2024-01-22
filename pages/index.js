@@ -45,11 +45,11 @@ const Home = ({ posts }) => {
       </div>
 
       {/* posts */}
-      <div className="pt-4">
-        <div className="container">
-          <div className="row">
-            <div className="mx-auto lg:col-10">
-              <div className="row">
+      <div className="pt-4 ">
+        <div className="container ">
+          <div className="row ">
+            <div className="mx-auto lg:col-10 ">
+              <div className="row " >
                 {sortPostByDate.slice(0, pagination).map((post, i) => (
                   <Post
                     className="col-12 mb-6 sm:col-6"

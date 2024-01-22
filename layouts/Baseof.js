@@ -22,7 +22,7 @@ const Base = ({
   return (
     <>
     
-    <div className="bg-gradient-to-t from-[#ffb8ef] to-[#dbc7ff]">
+    <div className="bg-[url('/images/posts/triya.png')] bg-contain">
       <Head>
         {/* title */}
         <title>

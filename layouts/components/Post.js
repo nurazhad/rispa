@@ -6,7 +6,7 @@ const { blog_folder } = config.settings;
 const Post = ({ post, className }) => {
   return (
     <div className={className}>
-      <div className="card">
+      <div className="card rounded-full">
         <div className="float-left hover:float-right">
         <ImageFallback
           className="h3 mb-2 font-normal"
