@@ -23,6 +23,7 @@ const Accordion = ({ title, children, className }) => {
           viewBox="0 0 512.011 512.011"
           style={{ enableBackground: "new 0 0 512.011 512.011" }}
           xmlSpace="preserve"
+          textDecoration= "bold"
         >
           <path
             fill="#000"

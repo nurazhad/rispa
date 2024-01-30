@@ -6,15 +6,15 @@ categories:
 draft: false
 ---
 
-#### PENGERTIAN ISPA
+#### **PENGERTIAN ISPA**
   ISPA (Infeksi Saluran Pernafasan Akut) adalah penyakit pada saluran pernapasan bagian atas atau bawah yang menimbulkan berbagai macam tanda dan gejala, mulai dari tingkatan ringan atau sampai berat bahkan bisa menyebabkan kematian yang disebabkan oleh bakteri atau virus sehingga menimbulkan gangguan pada sistem pernafasan (Ramli, 2022; dan Simanjuntak et al., 2021).
  
 <img src = "/images/gallery/53.png" width = "150px" height = "150px" />
 
 
-#### GEJALA ISPA BERDASARKAN TINGKAT KEPARAHAN
+#### **GEJALA ISPA BERDASARKAN TINGKAT KEPARAHAN**
 Gejala ISPA berdasarkan derajat keparahan ISPA (Nurjamillah & Dwiriani, 2022) 
-<Accordion  title="GEJALA ISPA RINGAN">
+<Accordion title="GEJALA ISPA RINGAN">
 
 - Common cold atau flu, keluarnya dari hidung yaitu lendir atau ingus.
 <img src = "/images/gallery/2.png" width = "150px" height = "150px" />
@@ -66,7 +66,7 @@ Gejala ISPA berdasarkan derajat keparahan ISPA (Nurjamillah & Dwiriani, 2022)
 
 </Accordion>
 
-#### PENYEBAB ISPA
+#### **PENYEBAB ISPA**
 
 <Accordion title="VIRUS DAN BAKTERI">
 Bakteri penyebab ISPA yaitu : Corynebakterium, Pneumococcus, Haemophilus, Streptococcus, dan Bordetella (Husaini & Hilal, 2023). 
@@ -74,60 +74,63 @@ Virus penyebab ISPA antara lain adalah golongan:, Herpesvirus, Adenovirus, Mikso
 </Accordion>
 
 
-#### FAKTOR RISIKO ISPA
+#### **FAKTOR RISIKO ISPA**
 Faktor risiko ISPA pada balita secara umum dibagi menjadi 3 faktor yaitu faktor lingkungan, individu balita, dan perilaku (Zolanda et al., 2021).
 
 <Accordion className="mt-3" title="FAKTOR LINGKUNGAN">
 Faktor lingkungan meliputi: Pencahayaan dalam rumah, ventilasi rumah, kepadatan hunian, dan tungku di dalam rumah.
 
-##### Pencahayaan dalam Rumah
+- ###### Pencahayaan dalam Rumah 
 
    ![ispa](/images/gallery/16.png)
   Pada siang hari, buka jendela untuk mendapatkan udara segar dan pencahayaan alami. Sinar matahari dapat membunuh bakteri atau kuman secara langsung (Rafaditya et al., 2022).
-##### Ventilasi Rumah
+- ###### Ventilasi Rumah
 
    ![ispa](/images/gallery/17.png)
   Ventilasi yang buruk tidak dapat memelihara kondisi sirkulasi udara (atmosfer) agar tetap segar dan sehat (Rafaditya et al., 2022)..
-##### Kepadatan Hunian
+- ###### Kepadatan Hunian
 
    ![ispa](/images/gallery/15.png)
  Pada tempat tinggal yang memiliki kepadatan yang tidak sesuai dengan aturan dapat meningkatkan tingkat polusi udara, di dalam rumah dan meningkatkan populasi mikroorganisme yang menyebabkan penyakit, terutama penyakit infeksi melalui saluran pernapasan. Berdasarkan Undang-Undang Nomor 1 Tahun 2011, luas minimal untuk setiap penghuni adalah 9 meter persegi (Sumedang, 2019).
-##### Tungku di dalam rumah 
+- ###### Tungku di dalam rumah 
 
    ![ispa](/images/gallery/18.png)
   Penggunaan kompor pada saat memasak kemudian tidak mempunyai cerobong asap dapat menimbulkan ISPA. Apabila rumah tidak memenuhi syarat fisik seperti tidak memadainya ventilasi dan cerobong asap di dalam rumah maka dapat menyebabkan penghuni rumah terjangkit penyakit pernapasan (Febriyani et al., 2020).
+
 </Accordion>
 
 <Accordion title="FAKTOR INDIVIDU BALITA">
 Faktor individu balita meliputi status gizi serta status imunisasi
 
-##### Status gizi
+- ###### Status gizi
 
    ![ispa](/images/gallery/19.png)
   Dalam keadaan gizi yang baik, tubuh mempunyai cukup kemampuan untuk mempertahankan diri terhadap penyakit infeksi. Sedangkan jika keadaan gizi buruk, maka reaksi kekebalan tubuh akan menurun sehingga mudah terjadi infeksi. Kejadian ini disebabkan akibat proses pembentukan antibodi yang terganggu atau terhambat dan akhirnya produksi dari antibodi ini akan menurun. Kondisi tersebut menunjukkan adanya korelasi antara status gizi buruk dengan kejadiaan ISPA pada balita. (Afdhal et al., 2023).
 
-##### Status Imunisasi 
+- ###### Status Imunisasi 
 
    ![ispa](/images/gallery/6.png)
   Imunisasi manfaatnya yaitu untuk menjaga kekebalan tubuh agar terhindar dari berbagai macam penyakit yang disebabkan oleh virus atau bakteri, maka jika tidak dilakukan imunisasi atau tidak lengkapnya imunisasi tubuh tidak akan mampu melawan virus atau bakteri. Adapun imunisasi lengkap meliputi imunisasi dasar HB0 -7 hari 1 kali,  BCG 1 kali, DPT/HB/Hib 3 kali, Polio 4 kali dan campak 1 kali (Kemenkes RI, 2016)
+
 </Accordion>
 
 <Accordion title="FAKTOR PERILAKU">
 Pencegahan dan penanggulangan ISPA pada bayi atau peran aktif keluarga/masyarakat dalam menangani penyakit ISPA.
 
-##### Pemberian ASI eklusif oleh Ibu yang tidak lengkap
+- ###### Pemberian ASI eklusif oleh Ibu yang tidak lengkap
 
    ![ispa](/images/gallery/21.png)
   Kandungan ASI terdiri dari berbagai zat antimikroba, antiinflamasi dan dan komponen lainnya yang membantu membangun pertahanan kekebalan tubuh serta untuk pertahanan menyerang agen infeksi. Manfaat yang ditemukan pada ASI eksklusif adalah perlindungan yang lama terhadap infeksi pada saluran pernapasan hingga 1 tahun pertama kehidupan (Wahyuni et al., 2020). 
-##### Pengetahuan Ibu yang kurang
+- ###### Pengetahuan Ibu yang kurang
    ![ispa](/images/gallery/22.png)
   Pengetahuan adalah salah satu variabel yang bisa mengantisipasi terjadinya ISPA pada  balita. Ketidaktahuan Ibu tentang ISPA juga karena rendahnya pendidikan orang  tua. Apabila  ibu  tidak mengetahui pencegahan / pengobatan  pada  balita,  ibu  tidak memahami  manifestasi klinis  ISPA, serta  penyebab  terjadinya ISPA hal ini menyebabkan ISPA berulang pada balita (Lestari & Barkah, 2023).
-##### Merokok
+- ###### Merokok
    ![ispa](/images/gallery/23.png)
   Paparan asap rokok dapat menyebabkan terganggunya pernapasan pada balita. Anak usia balita lebih banyak mengalami ISPA dikarenakan sistem imunitas anak yang masih lemah dan organ pernapasan anak bayi belum mencapai kematangan yang sempurna, sehingga apabila terpajan kuman akan lebih beresiko terkena penyakit (Hilmawan et al., 2020).
+
 </Accordion>
 
-#### PENCEGAHAN ISPA
+#### **PENCEGAHAN ISPA**
 Pencegahan ISPA dapat dilakukan dengan cara sebagai berikut (Silviana, 2014).
 
 <Accordion title="MAKAN SEHAT">
@@ -147,12 +150,15 @@ Kolostrum merupakan cairan yang pertama disekresi oleh kelenjar payudara dari ha
 
 <Accordion className="mt-3" title="MENJAGA KEBERSIHAN ">
 
-##### Personal hygiene (Kebersihan perorangan)
+<Accordion title ="Personal hygiene (Kebersihan perorangan)">
 
-   ![ispa](/images/gallery/27.png)
+ ![ispa](/images/gallery/27.png)
   Kebersihan sangat diperlukan untuk mencegah infeksi penyakit, salah satunya melalui cuci tangan dan menjaga kebersihan pakaian khususnya bagi Ibu dan balita. Kebiasaan mencuci tangan dengan sabun dan air mengalir dapat menghindarkan dari penyakit, salah satunya adalah infeksi saluran pernapasan seperti pneumonia. (Latowale et al., 2019).
   Perilaku hygiene Ibu terutama kebersihan tangan dianjurkan sebelum memberikan ASI dan makanan kepada balita, kemudian saat batuk maupun terkena cairan hidung. Perilaku ibu juga diharuskan untuk memotong kuku, keteraturan mandi, dan tindakan mencuci tangan balita sesudah bermain.   (Sundari et al., 2014).
-##### Menjaga kebersihan lingkungan.
+
+</Accordion> 
+<Accordion title ="Menjaga Kebersihan Lingkungan">
+
 ###### 1. Buat Ventilasi yang Sesuai
 
  ![ispa](/images/gallery/43.png)
@@ -165,6 +171,8 @@ Keadaan tempat tinggal yang padat dapat meningkatkan faktor polusi udara di dala
 
  ![ispa](/images/gallery/41.png)
 Membuka jendela pada siang hari untuk memperoleh udara segar, serta pencahayaan alami (sinar matahari dapat membunuh bakteri atau kuman secara langsung). (Rafaditya et al., 2022).
+</Accordion> 
+
 
 </Accordion>
 
