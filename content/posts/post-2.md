@@ -49,29 +49,30 @@ Berikut penanganan yang bisa dilakukan di rumah (Widianti, 2020)
 <Accordion className="mt-3" title="PEMBERIAN MAKANAN BERGIZI">
 
 <img src = "/images/gallery/40.png" width = "200px" height = "200px" />
-Bagi usia ≤ 6 bulan hanya ASI saja, ≤ 1 tahun melanjutkan ASI, air putih serta MPASI , ≥ 1 tahun boleh melanjutkan ASI, air putih, air buah, air jus, serta makanan-makanan bergizi.
+Bagi usia ≤ 6 bulan hanya ASI saja, ≤ 1 tahun melanjutkan ASI, air putih serta MPASI , ≥ 1 tahun boleh melanjutkan ASI, air putih, air buah, air jus, serta makanan-makanan bergizi. (Widianti, 2020).
+
 </Accordion>
 
 <Accordion className="mt-3" title="MENGATASI DEMAM / PANAS">
-Untuk   mengatasi   panas   (demam)  yaitu dengan memberikan  obat  penurun panas   atau mengompres   anak   dengan   menggunakan kain   bersih,   celupkan   pada   air hangat sesuai kebutuhan.
+Untuk   mengatasi   panas   (demam)  yaitu dengan memberikan  obat  penurun panas   atau mengompres   anak   dengan   menggunakan kain   bersih,   celupkan   pada   air hangat sesuai kebutuhan. (Widianti, 2020).
 
 <iframe width="350" height="250" src="https://www.youtube.com/embed/R5rEY4fSMb8" title="Pemberian Water Tepid Sponge pada Anak" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </Accordion>
 
 <Accordion className="mt-3" title="MENGATASI SESAK">
-Jika sesak karena secret/dahak maka dilakukan terapi inhalasi untuk mengeluarkan secret/dahak. Inhalasi adalah pemberian obat seperti uap yang kemudian dihirup langsung melalui pernafasan. Pemberian obat dengan inhalasi dengan aromaterapi peppermint oil tidak kalah cepat dengan pemberian obat melalui intravena karena pengiriman obat cepat melalui saluran nafas dan epitel paru-paru.
+Jika sesak karena secret/dahak maka dilakukan terapi inhalasi untuk mengeluarkan secret/dahak. Inhalasi adalah pemberian obat seperti uap yang kemudian dihirup langsung melalui pernafasan. Pemberian obat dengan inhalasi dengan aromaterapi peppermint oil tidak kalah cepat dengan pemberian obat melalui intravena karena pengiriman obat cepat melalui saluran nafas dan epitel paru-paru.  (Rosa & Fredrika, 2023). 
 
 <iframe width="350" height="250" src="https://www.youtube.com/embed/DERJtaRBiAs" title="Pemberian Inhalasi dengan Aromaterapi Peppermint Oil" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </Accordion>
 
 <Accordion className="mt-3" title="MENGATASI MUNTAH">
  <img src = "/images/gallery/28.png" width = "200px" height = "200px" />
-Jika muntah terus menerus harus dilakukan pemberian   cairan   dengan   pemberian  pada anak diatas 6 bulan (air  putih,  air  buah,  oralit, dsb) lebih  banyak  dari  biasanya.
+Jika muntah terus menerus harus dilakukan pemberian   cairan   dengan   pemberian  pada anak diatas 6 bulan (air  putih,  air  buah,  oralit, dsb) lebih  banyak  dari  biasanya.  (Widianti, 2020).
 
 </Accordion>
 
 <Accordion className="mt-3" title="MENGATASI BATUK">
-Mengatasi batuk pada bayi ≤ 6 bulan dengan cara hanya ASI saja, pada usia ≤ 1 tahun melanjutkan ASI dan air putih hangat, sedangkan pada usia  ≥ 1 tahun yaitu  bisa diberikan bahan yang aman yaitu  terbuat  dari kecap  manis atau  madu  ½  sendok  teh  dicampur dengan jeruk  nipis  ½  sendok  teh  diberikan tiga  kali  sehari.
+Mengatasi batuk pada bayi ≤ 6 bulan dengan cara hanya ASI saja, pada usia ≤ 1 tahun melanjutkan ASI dan air putih hangat, sedangkan pada usia  ≥ 1 tahun yaitu  bisa diberikan bahan yang aman yaitu  terbuat  dari kecap  manis atau  madu  ½  sendok  teh  dicampur dengan jeruk  nipis  ½  sendok  teh  diberikan tiga  kali  sehari. (Widianti, 2020).
 <img src = "/images/gallery/29.png" width = "200px" height = "200px" />
 Adapun untuk mengurangi penumpukkan dahak yang sulit dikeluarkan saat batuk yaitu dengan fisioterapi dada. Fisioterapi   dada   pada   anak yang mengalami ISPA   akan   efektif   jika   dilakukan selama  2x  dalam  sehari  secara  berkala. Sehingga fisioterapi dada dapat digunakan untuk    membantu    mengatasi    masalah pengeluaran  dahak (Pangesti & Setyaningrum, 2020).
 
