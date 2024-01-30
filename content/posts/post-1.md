@@ -159,18 +159,28 @@ Kolostrum merupakan cairan yang pertama disekresi oleh kelenjar payudara dari ha
 </Accordion> 
 <Accordion title ="Menjaga Kebersihan Lingkungan">
 
-###### 1. Buat Ventilasi yang Sesuai
+<Accordion title = "Buat Ventilasi Yang Sesuai">
 
  ![ispa](/images/gallery/43.png)
 Dengan membuat ventilasi udara serta pencahayaan udara yang baik dapat mengurangi polusi asap dapur atau asap rokok yang ada didalam rumah. Hal tersebut dapat mencegah seseorang menghirup asap yang bisa menyebabkan terkena penyakit ISPA. Ventilasi yang baik dapat memelihara kondisi sirkulasi udara (atmosfer) agar tetap segar dan sehat.  (Rafaditya et al., 2022).
-###### 2. Hindari Kepadatan
+
+</Accordion>
+
+<Accordion title = "Hindari Kepadatan">
 
  ![ispa](/images/gallery/42.png)
 Keadaan tempat tinggal yang padat dapat meningkatkan faktor polusi udara di dalam rumah, mikroorganisme penyebab penyakit terutama yang menular melalui saluran pernapasan akan semakin banyak, apabila penghuni dalam rumah tersebut semakin banyak jumlahnya maka hindari kepadatan. (Afdhal et al., 2023).
-###### 3. Pencahayaan
+
+</Accordion>
+
+<Accordion title = "Pencahayaan">
+
 
  ![ispa](/images/gallery/41.png)
 Membuka jendela pada siang hari untuk memperoleh udara segar, serta pencahayaan alami (sinar matahari dapat membunuh bakteri atau kuman secara langsung). (Rafaditya et al., 2022).
+
+</Accordion>
+
 </Accordion> 
 
 
