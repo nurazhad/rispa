@@ -56,7 +56,7 @@ Bagi usia ≤ 6 bulan hanya ASI saja, ≤ 1 tahun melanjutkan ASI, air putih ser
 <Accordion className="mt-3" title="MENGATASI DEMAM / PANAS">
 Untuk   mengatasi   panas   (demam)  yaitu dengan memberikan  obat  penurun panas   atau mengompres   anak   dengan   menggunakan kain   bersih,   celupkan   pada   air hangat sesuai kebutuhan. (Widianti, 2020).
 
-<iframe width="350" height="250" src="https://www.youtube.com/embed/R5rEY4fSMb8" title="Pemberian Water Tepid Sponge pada Anak" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="350" height="250" src="https://www.youtube.com/embed/g0I-OZR1nDw" title="Pemberian Water Tepid Sponge pada Anak" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </Accordion>
 
 <Accordion className="mt-3" title="MENGATASI SESAK">
@@ -76,7 +76,7 @@ Mengatasi batuk pada bayi ≤ 6 bulan dengan cara hanya ASI saja, pada usia ≤ 
 <img src = "/images/gallery/29.png" width = "200px" height = "200px" />
 Adapun untuk mengurangi penumpukkan dahak yang sulit dikeluarkan saat batuk yaitu dengan fisioterapi dada. Fisioterapi   dada   pada   anak yang mengalami ISPA   akan   efektif   jika   dilakukan selama  2x  dalam  sehari  secara  berkala. Sehingga fisioterapi dada dapat digunakan untuk    membantu    mengatasi    masalah pengeluaran  dahak (Pangesti & Setyaningrum, 2020).
 
-<iframe width="350" height="250" src="https://www.youtube.com/embed/c14WkI5JrUU" title="Tindakan Fisioterapi Dada" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="350" height="250" src="https://www.youtube.com/embed/YTCgKb0tRuM" title="Tindakan Fisioterapi Dada" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </Accordion>
 
 <Accordion className="mt-3" title="BAGI PASIEN YANG MENGONSUMSI OBAT">
