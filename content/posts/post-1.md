@@ -84,7 +84,7 @@ Faktor lingkungan meliputi: Pencahayaan dalam rumah, ventilasi rumah, kepadatan 
 
    ![ispa](/images/gallery/16.png)
   Pada siang hari, buka jendela untuk mendapatkan udara segar dan pencahayaan alami. Sinar matahari dapat membunuh bakteri atau kuman secara langsung (Rafaditya et al., 2022).
-- ###### Ventilasi Rumah 
+- ###### Ventilasi Rumah
 
    ![ispa](/images/gallery/17.png)
   Ventilasi yang buruk tidak dapat memelihara kondisi sirkulasi udara (atmosfer) agar tetap segar dan sehat (Rafaditya et al., 2022)..
@@ -198,8 +198,7 @@ Jauhkan anak-anak dengan penderita ISPA. (Silviana, 2014).
 <Accordion className="mt-3" title="JAUHKAN ANAK ANAK DARI PENDERITA ISPA">
 
  ![ispa](/images/gallery/49.png)
-ISPA disebabkan oleh virus atau bakteri yang ditularkan oleh seseorang yang telah terjangkit penyakit ini melalui udara serta percikan ludah yang tercemar dan masuk kedalam tubuh. Bibit penyakit ini biasanya berupa virus atau bakteri diudara yang umumnya berbentuk aerosol (suspensi yang melayang diudara). Maka balita dapat menggunakan masker. Adapun bentuk aerosol yakni droplet, nuclei (sisa dari sekresi saluran pernafasan yang dikeluarkan dari tubuh secara droplet serta ditularkan melalui udara). (Silviana, 2014).
-
+ISPA disebabkan oleh virus atau bakteri yang ditularkan oleh seseorang yang telah terjangkit penyakit ini melalui udara serta percikan ludah yang tercemar dan masuk kedalam tubuh. Bibit penyakit ini biasanya berupa virus atau bakteri diudara yang umumnya berbentuk aerosol (suspensi yang melayang diudara). Maka balita dapat menggunakan masker. Adapun bentuk aerosol yakni droplet, nuclei (sisa dari sekresi saluran pernafasan yang dikeluarkan dari tubuh secara droplet serta ditularkan melalui udara) (Silviana, 2014).
 </Accordion>
 
 
