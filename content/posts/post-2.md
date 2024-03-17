@@ -45,22 +45,22 @@ Suhu dapat diukur menggunakan termometer, suhu normal 36,5 O C-37,5 O C. Suhu ya
 </Accordion>
 
 #### **Pengobatan serta perawatan di rumah (penanganan awal dan penanganan lanjutan dari pelayanan Kesehatan)**
-Berikut penanganan yang bisa dilakukan di rumah (Widianti, 2020)
+Balita yang terkena ISPA selalu diberi obat pengurang gejala atau penanganan. Berikut penanganan yang bisa dilakukan di rumah (Widianti, 2020)
 <Accordion className="mt-3" title="PEMBERIAN MAKANAN BERGIZI">
 
 <img src = "/images/gallery/40.png" width = "200px" height = "200px" />
-Bagi usia ≤ 6 bulan hanya ASI saja, ≤ 1 tahun melanjutkan ASI, air putih serta MPASI , ≥ 1 tahun boleh melanjutkan ASI, air putih, air buah, air jus, serta makanan-makanan bergizi. (Widianti, 2020).
+Bagi usia ≤ 6 bulan hanya ASI saja, ≤ 1 tahun melanjutkan ASI, air putih serta MPASI , ≥ 1 tahun boleh melanjutkan ASI, air putih, air buah, air jus, serta makanan-makanan bergizi seperti nasi lunak + telur atau daging ayam + sayur brokoli atau toge + susu atau pada intinya harus meningkatkan kandungan karbohidrat, protein, mineral dan vitamin untuk meningkatkan daya tahan tubuh balita dan mencegah terjadinya malnutrisi jika balita tidak mau makan, maka beri balita makan sedikit tapi sering. (Widianti, 2020).
 
 </Accordion>
 
 <Accordion className="mt-3" title="MENGATASI DEMAM / PANAS">
-Untuk   mengatasi   panas   (demam)  yaitu dengan memberikan  obat  penurun panas   atau mengompres   anak   dengan   menggunakan kain   bersih,   celupkan   pada   air hangat sesuai kebutuhan. (Widianti, 2020).
+Untuk   mengatasi   panas   (demam)  yaitu dengan memberikan  obat  penurun panas paracetamol 2 kali sehari dalam 12 jam atau mengompres   anak   dengan   menggunakan kain   bersih,   celupkan   pada   air hangat sesuai kebutuhan serta mengompres di bagian dahi atau ketiak. Hindari pakaian tebal pada balita saat demam. (Widianti, 2020).
 
 <iframe width="350" height="250" src="https://www.youtube.com/embed/g0I-OZR1nDw" title="Pemberian Water Tepid Sponge pada Anak" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </Accordion>
 
 <Accordion className="mt-3" title="MENGATASI SESAK">
-Jika sesak karena secret/dahak maka dilakukan terapi inhalasi untuk mengeluarkan secret/dahak. Inhalasi adalah pemberian obat seperti uap yang kemudian dihirup langsung melalui pernafasan. Pemberian obat dengan inhalasi dengan aromaterapi peppermint oil tidak kalah cepat dengan pemberian obat melalui intravena karena pengiriman obat cepat melalui saluran nafas dan epitel paru-paru.  (Rosa & Fredrika, 2023). 
+Jika sesak karena secret/dahak maka dilakukan terapi inhalasi untuk mengeluarkan secret/dahak. Inhalasi adalah pemberian obat seperti uap yang kemudian dihirup langsung melalui pernafasan. Pemberian obat dengan inhalasi dengan aromaterapi peppermint oil tidak kalah cepat dengan pemberian obat melalui intravena karena pengiriman obat cepat melalui saluran nafas dan epitel paru-paru. Jika ada ingus di hidung balita dan mengakibatkan pernafasannya terganggu maka lubang hidung balita harus dibersihkan dengan air bersih (Rosa & Fredrika, 2023). 
 
 <iframe width="350" height="250" src="https://www.youtube.com/embed/DERJtaRBiAs" title="Pemberian Inhalasi dengan Aromaterapi Peppermint Oil" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </Accordion>
@@ -72,7 +72,7 @@ Jika muntah terus menerus harus dilakukan pemberian   cairan   dengan   pemberia
 </Accordion>
 
 <Accordion className="mt-3" title="MENGATASI BATUK">
-Mengatasi batuk pada bayi ≤ 6 bulan dengan cara hanya ASI saja, pada usia ≤ 1 tahun melanjutkan ASI dan air putih hangat, sedangkan pada usia  ≥ 1 tahun yaitu  bisa diberikan bahan yang aman yaitu  terbuat  dari kecap  manis atau  madu  ½  sendok  teh  dicampur dengan jeruk  nipis  ½  sendok  teh  diberikan tiga  kali  sehari. (Widianti, 2020).
+Mengatasi batuk pada bayi ≤ 6 bulan dengan cara hanya ASI saja, pada usia ≤ 1 tahun melanjutkan ASI dan air putih hangat, pemberian cairan lebih banyak dari biasanya, sedangkan pada usia  ≥ 1 tahun yaitu  bisa diberikan bahan yang aman yaitu  terbuat  dari kecap  manis atau  madu  ½  sendok  teh  dicampur dengan jeruk  nipis  ½  sendok  teh  diberikan tiga  kali  sehari. (Widianti, 2020).
 <img src = "/images/gallery/29.png" width = "200px" height = "200px" />
 Adapun untuk mengurangi penumpukkan dahak yang sulit dikeluarkan saat batuk yaitu dengan fisioterapi dada. Fisioterapi   dada   pada   anak yang mengalami ISPA   akan   efektif   jika   dilakukan selama  2x  dalam  sehari  secara  berkala. Sehingga fisioterapi dada dapat digunakan untuk    membantu    mengatasi    masalah pengeluaran  dahak (Pangesti & Setyaningrum, 2020).
 
@@ -80,7 +80,7 @@ Adapun untuk mengurangi penumpukkan dahak yang sulit dikeluarkan saat batuk yait
 </Accordion>
 
 <Accordion className="mt-3" title="BAGI PASIEN YANG MENGONSUMSI OBAT">
-Bagi pasien yang mengonsumsi antibiotik, selain tindakan di atas, pastikan obat digunakan dengan benar sampai habis, namun bagi pasien yang sedang mengonsumsi antibiotik, usahakan untuk membawa anak kembali ke petugas medis jika kondisi memburuk untuk pemeriksaan lanjutan. Balita harus dibawa ke pelayanan Kesehatan jika mengalami hal sebagai berikut (Suryono, 2020).
+Bagi pasien yang mengonsumsi antibiotik, selain tindakan di atas, pastikan obat digunakan dengan benar sampai habis karena penting untuk diberikan pada balita, namun bagi pasien yang sedang mengonsumsi antibiotik, usahakan untuk membawa anak kembali ke petugas medis jika kondisi memburuk untuk pemeriksaan lanjutan. Balita harus dibawa ke pelayanan Kesehatan jika mengalami hal bahaya sebagai berikut (Suryono, 2020).
 
 - Nafas Sesak ada retraksi dinding dada saat bernafas
 - Tidak mau diberi ASI
