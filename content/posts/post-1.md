@@ -7,7 +7,7 @@ draft: false
 ---
 
 #### **PENGERTIAN ISPA**
-  ISPA (Infeksi Saluran Pernafasan Akut) adalah penyakit pada saluran pernapasan bagian atas atau bawah yang menimbulkan berbagai macam tanda dan gejala, mulai dari tingkatan ringan atau sampai berat bahkan bisa menyebabkan kematian yang disebabkan oleh bakteri atau virus sehingga menimbulkan gangguan pada sistem pernafasan (Ramli, 2022; dan Simanjuntak et al., 2021).
+  ISPA (Infeksi Saluran Pernafasan Akut) adalah penyakit pada saluran pernapasan bagian atas atau bawah yang menimbulkan berbagai macam tanda dan gejala, mulai dari tingkatan ringan atau sampai berat bahkan bisa menyebabkan kematian yang disebabkan oleh bakteri atau virus sehingga menimbulkan gangguan pada sistem pernafasan serta sering terjadi pada balita yang dapat berlangsung selama 14 hari (Ramli, 2022; dan Simanjuntak et al., 2021).
  
 <img src = "/images/gallery/53.png" width = "150px" height = "150px" />
 
@@ -84,7 +84,7 @@ Faktor lingkungan meliputi: Pencahayaan dalam rumah, ventilasi rumah, kepadatan 
 
    ![ispa](/images/gallery/16.png)
   Pada siang hari, buka jendela untuk mendapatkan udara segar dan pencahayaan alami. Sinar matahari dapat membunuh bakteri atau kuman secara langsung (Rafaditya et al., 2022).
-- ###### Ventilasi Rumah
+- ###### Ventilasi Rumah 
 
    ![ispa](/images/gallery/17.png)
   Ventilasi yang buruk tidak dapat memelihara kondisi sirkulasi udara (atmosfer) agar tetap segar dan sehat (Rafaditya et al., 2022)..
@@ -110,7 +110,7 @@ Faktor individu balita meliputi status gizi serta status imunisasi
 - ###### Status Imunisasi 
 
    ![ispa](/images/gallery/6.png)
-  Imunisasi manfaatnya yaitu untuk menjaga kekebalan tubuh agar terhindar dari berbagai macam penyakit yang disebabkan oleh virus atau bakteri, maka jika tidak dilakukan imunisasi atau tidak lengkapnya imunisasi tubuh tidak akan mampu melawan virus atau bakteri. Adapun imunisasi lengkap meliputi imunisasi dasar HB0 -7 hari 1 kali,  BCG 1 kali, DPT/HB/Hib 3 kali, Polio 4 kali dan campak 1 kali (Kemenkes RI, 2016)
+  Imunisasi manfaatnya yaitu untuk menjaga kekebalan tubuh agar terhindar dari berbagai macam penyakit yang disebabkan oleh virus atau bakteri, maka jika tidak dilakukan imunisasi atau tidak lengkapnya imunisasi tubuh tidak akan mampu melawan virus atau bakteri. Maka  status imunisasi berhubungan dengan kejadian ISPA pada balita. Adapun imunisasi lengkap meliputi imunisasi dasar HB0 -7 hari 1 kali,  BCG 1 kali, DPT/HB/Hib 3 kali, Polio 4 kali dan campak 1 kali (Kemenkes RI, 2016)
 
 </Accordion>
 
@@ -120,7 +120,7 @@ Pencegahan dan penanggulangan ISPA pada bayi atau peran aktif keluarga/masyaraka
 - ###### Pemberian ASI eklusif oleh Ibu yang tidak lengkap
 
    ![ispa](/images/gallery/21.png)
-  Kandungan ASI terdiri dari berbagai zat antimikroba, antiinflamasi dan dan komponen lainnya yang membantu membangun pertahanan kekebalan tubuh serta untuk pertahanan menyerang agen infeksi. Manfaat yang ditemukan pada ASI eksklusif adalah perlindungan yang lama terhadap infeksi pada saluran pernapasan hingga 1 tahun pertama kehidupan (Wahyuni et al., 2020). 
+  Kandungan ASI terdiri dari berbagai zat antimikroba, antiinflamasi dan dan komponen lainnya yang membantu membangun pertahanan kekebalan tubuh serta untuk pertahanan menyerang agen infeksi. Manfaat yang ditemukan pada ASI eksklusif adalah perlindungan yang lama terhadap infeksi pada saluran pernapasan hingga 1 tahun pertama kehidupan. Maka ada hubungan ASI ekslusif dengan kejadian ISPA pada balita  (Wahyuni et al., 2020). 
 - ###### Pengetahuan Ibu yang kurang
    ![ispa](/images/gallery/22.png)
   Pengetahuan adalah salah satu variabel yang bisa mengantisipasi terjadinya ISPA pada  balita. Ketidaktahuan Ibu tentang ISPA juga karena rendahnya pendidikan orang  tua. Apabila  ibu  tidak mengetahui pencegahan / pengobatan  pada  balita,  ibu  tidak memahami  manifestasi klinis  ISPA, serta  penyebab  terjadinya ISPA hal ini menyebabkan ISPA berulang pada balita (Lestari & Barkah, 2023).
@@ -198,7 +198,7 @@ Jauhkan anak-anak dengan penderita ISPA. (Silviana, 2014).
 <Accordion className="mt-3" title="JAUHKAN ANAK ANAK DARI PENDERITA ISPA">
 
  ![ispa](/images/gallery/49.png)
-ISPA disebabkan oleh virus atau bakteri yang ditularkan oleh seseorang yang telah terjangkit penyakit ini melalui udara yang tercemar dan masuk kedalam tubuh. Bibit penyakit ini biasanya berupa virus atau bakteri diudara yang umumnya berbentuk aerosol (suspensi yang melayang diudara). Adapun bentuk aerosol yakni droplet, nuclei (sisa dari sekresi saluran pernafasan yang dikeluarkan dari tubuh secara droplet serta ditularkan melalui udara). (Silviana, 2014).
+ISPA disebabkan oleh virus atau bakteri yang ditularkan oleh seseorang yang telah terjangkit penyakit ini melalui udara serta percikan ludah yang tercemar dan masuk kedalam tubuh. Bibit penyakit ini biasanya berupa virus atau bakteri diudara yang umumnya berbentuk aerosol (suspensi yang melayang diudara). Maka balita dapat menggunakan masker. Adapun bentuk aerosol yakni droplet, nuclei (sisa dari sekresi saluran pernafasan yang dikeluarkan dari tubuh secara droplet serta ditularkan melalui udara). (Silviana, 2014).
 
 </Accordion>
 
