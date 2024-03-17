@@ -84,7 +84,7 @@ Faktor lingkungan meliputi: Pencahayaan dalam rumah, ventilasi rumah, kepadatan 
 
    ![ispa](/images/gallery/16.png)
   Pada siang hari, buka jendela untuk mendapatkan udara segar dan pencahayaan alami. Sinar matahari dapat membunuh bakteri atau kuman secara langsung (Rafaditya et al., 2022).
-- ###### Ventilasi Rumah
+- ###### Ventilasi Rumah 
 
    ![ispa](/images/gallery/17.png)
   Ventilasi yang buruk tidak dapat memelihara kondisi sirkulasi udara (atmosfer) agar tetap segar dan sehat (Rafaditya et al., 2022)..
