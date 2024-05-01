@@ -41,10 +41,10 @@ const PostSingle = ({ post, mdxContent, slug, posts }) => {
               </Link>
               <article>
                 {markdownify(title, "h1", "h2 mt-12")}
-                <ul className="mt-4 mb-8 text-text">
+                <ul className="mt-4 mb-8 text-justify">
                   
                 </ul>
-                <div className="content text-left">
+                <div className="content text-justify">
                   <MDXRemote {...mdxContent} components={shortcodes} />
                 </div>
               </article>

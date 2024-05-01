@@ -7,7 +7,7 @@ const Default = ({ data }) => {
   const { title } = frontmatter;
   return (
     <section className="!pt-[60px] pb-10">
-      <div className="container">
+      <div className="container  text-justify">
         {markdownify(title, "h1", "h1 mb-20 text-center")}
         <div className="row">
           <div className="mx-auto lg:col-11">

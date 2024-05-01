@@ -7,7 +7,7 @@ draft: false
 ---
 
 #### **PENGERTIAN ISPA**
-  ISPA (Infeksi Saluran Pernafasan Akut) adalah penyakit pada saluran pernapasan bagian atas atau bawah yang menimbulkan berbagai macam tanda dan gejala, mulai dari tingkatan ringan atau sampai berat bahkan bisa menyebabkan kematian yang disebabkan oleh bakteri atau virus sehingga menimbulkan gangguan pada sistem pernafasan serta sering terjadi pada balita yang dapat berlangsung selama 14 hari (Ramli, 2022; dan Simanjuntak et al., 2021).
+ISPA (Infeksi Saluran Pernafasan Akut) adalah penyakit pada saluran pernapasan bagian atas atau bawah yang menimbulkan berbagai macam tanda dan gejala, mulai dari tingkatan ringan atau sampai berat bahkan bisa menyebabkan kematian yang disebabkan oleh bakteri atau virus sehingga menimbulkan gangguan pada sistem pernafasan serta sering terjadi pada balita yang dapat berlangsung selama 14 hari (Ramli, 2022; dan Simanjuntak et al., 2021).
  
 <img src = "/images/gallery/53.png" width = "150px" height = "150px" />
 
